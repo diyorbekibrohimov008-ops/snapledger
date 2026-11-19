@@ -32,3 +32,10 @@ yarn-error.log*
 
 # preserve example config
 !.env.example
+
+# Secrets, environment variables, and deploy state
+.env.*
+*.env
+.netlify
+*.key
+.data/

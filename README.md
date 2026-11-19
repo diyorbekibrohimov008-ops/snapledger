@@ -2,6 +2,10 @@
 
 > **Unlimited Receipt & Invoice Bookkeeping with 3-Second Mobile Camera Auto-Crop and Two-Way Plaid Bank Matching.**
 
+> [!WARNING]
+> **Project Status — Work in Progress (Not Fully Ready)**
+> This project is currently under active development and is **not fully ready for production**. Some parts, features, or workflow steps will fail or behave unexpectedly. We are actively working on fixing all remaining issues.
+
 [![Live Production](https://img.shields.io/badge/Vercel-Live%20Production-000?style=flat&logo=vercel)](https://snapledger-bookkeeping.vercel.app)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.3-black?style=flat&logo=next.js)](https://nextjs.org)
 [![React 19](https://img.shields.io/badge/React-19-61dafb?style=flat&logo=react)](https://react.dev)
